@@ -16,7 +16,8 @@
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.400.0",
     "zustand": "^4.5.0",
-    "zod": "^3.22.0"
+    "zod": "^3.22.0",
+        "critters": "^0.0.20"
   },
   "devDependencies": {
     "@types/node": "^20",
